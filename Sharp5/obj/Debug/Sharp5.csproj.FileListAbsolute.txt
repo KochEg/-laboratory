@@ -1,0 +1,8 @@
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\bin\Debug\Sharp5.exe.config
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\bin\Debug\Sharp5.exe
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\bin\Debug\Sharp5.pdb
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\obj\Debug\Sharp5.csproj.AssemblyReference.cache
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\obj\Debug\Sharp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\obj\Debug\Sharp5.csproj.CoreCompileInputs.cache
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\obj\Debug\Sharp5.exe
+C:\Users\Magnit96\source\repos\Sharp6\Sharp5\obj\Debug\Sharp5.pdb
